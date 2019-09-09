@@ -1,0 +1,3 @@
+name: 'test_dart'
+dependencies:
+ meta: ^1.1.7
